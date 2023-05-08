@@ -1,4 +1,4 @@
-//mfl- muthoot fincorp ltd.
+ console.log ( "       mfl - muthoot fincorp ltd." ) ;
 
 var mflId = 10113587;                         //number
 var mflIsGood = true;                        //Boolean
@@ -12,9 +12,9 @@ console.log("------------------------------------------------");
 
 
 var mflAddress;
-console.log(" mfl Address value :", mflAddress, "// Type:", typeof mflAddress);
+console.log("   mfl Address value :", mflAddress, "// Type:", typeof mflAddress);
 var mflBranch = null;
-console.log(" mfl Branch value :", mflBranch, "// Type:",typeof mflBranch);
+console.log("   mfl Branch value :", mflBranch, "// Type:",typeof mflBranch);
 console.log("------------------------------------------------");
 
 console.log("Diffrence between Undefined and Null");
