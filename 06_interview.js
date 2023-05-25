@@ -7,7 +7,7 @@ function expression (gradScore,hscScore,sscScore,candidateName) {
         console.log(`Congrates ${candidateName}, you are eligible for TCS interview.`);
         
     } else {
-        console.log(`Unfortunately you are not eligible for interview.`);
+        console.log(`${candidateName} Unfortunately you are not eligible for interview.`);
     }
 
 }
